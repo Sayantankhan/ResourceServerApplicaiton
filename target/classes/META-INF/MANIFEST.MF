@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ResourceServerApplicaction
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sayantan
+Implementation-Vendor-Id: com.resourceserver.authorization
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ResourceServerApplicaction
+Created-By: Maven Integration for Eclipse
+
